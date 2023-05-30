@@ -1,0 +1,4 @@
+#Spam Detection System using Naive Bayes Algorithm
+
+The project is a final year project for BSC.CSIT 7th semester.Spam detection system is built using Naive Bayes Algorithm which is a probabilistic algorithm.
+This project is a spam detection system which detects whether the message/text is spam or ham..Naive Bayes Algorithm is used in this project. Naive Bayes is a probabilistic algorithm. This spam detection project is based on calculation of probability of the words that comes in a spam or ham classes.Prediction of the spam/ham is done on the basis of the probability of the word occurring in the classes..This project helps user detect the messages and help the users understand that the text/messages they are getting is a spam and ham.This project detects the messages that are spam and alerts the users to not go behind the spam messages that leads to fraud, stealing or corruption of personal data and valuables.
